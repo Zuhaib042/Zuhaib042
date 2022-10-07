@@ -2,7 +2,7 @@
 <h1> Hi there👋, I'm Zuhaib</h1><img align="right" src="https://komarev.com/ghpvc/?username=Zuhaib042&color=3f37c9&style=for-the-badge">
 <h3>I am a Front-End web-developer from Pakistan</h3>
 <img align="right" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
-<p>Right now, I am a remote student at Microverse, an online school for remote software developers. learning new technologies is my passion and I am here to make an impact through tech.</p>
+<h5>Right now, I am a remote student at Microverse, an online school for remote software developers. learning new technologies is my passion and I am here to make an impact through tech.</h5>
 
 ### 🖥 Check out [my portfolio.](https://zuhaib042.github.io/portfolio/)
 
