@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 <h1> Hi there👋, I'm Zuhaib Amjad</h1><img align="right" src="https://komarev.com/ghpvc/?username=Zuhaib042&color=3f37c9&style=for-the-badge">
-<h3>I am a Full-Stack Developer from Pakistan</h3>
+<h3>I am a Full-stack Developer from Pakistan</h3>
 <img align="right" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 <p>I am a graduate of Microverse, an online school for remote software developers. learning new technologies is my passion and I am here to make an impact through tech.</p>
 
