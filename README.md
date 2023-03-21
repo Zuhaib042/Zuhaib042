@@ -1,8 +1,8 @@
 <!-- ### Hi there 👋 -->
-<h1> Hi there👋, I'm Zuhaib</h1><img align="right" src="https://komarev.com/ghpvc/?username=Zuhaib042&color=3f37c9&style=for-the-badge">
-<h3>I am a Front-end web-developer from Pakistan</h3>
+<h1> Hi there👋, I'm Zuhaib Amjad</h1><img align="right" src="https://komarev.com/ghpvc/?username=Zuhaib042&color=3f37c9&style=for-the-badge">
+<h3>I am a Full-stack web-developer from Pakistan</h3>
 <img align="right" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
-<p>Right now, I am a remote student at Microverse, an online school for remote software developers. learning new technologies is my passion and I am here to make an impact through tech.</p>
+<p>I am a graduate of Microverse, an online school for remote software developers. learning new technologies is my passion and I am here to make an impact through tech.</p>
 
 ### 🖥 Check out [my portfolio.](https://zuhaib042.github.io/portfolio/)
 
@@ -13,11 +13,12 @@
 <p align="left">
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://twitter.com/Zuhaib042" target="_blank"><img align="center" src="images/twitter.png" alt="twitter" width="35" /></a> &nbsp;
 <a href="https://www.linkedin.com/in/zuhaib-amjad-488914234/" target="_blank"><img align="center" src="images/linkedin.png" alt="linkedin" width="35" /></a> &nbsp;
+<a href="umar0423@gmail.com" target="_blank"><img align="center" src="images/email.png" alt="linkedin" width="35" /></a> &nbsp;
 </p>
 
 ## <img style="display:block;" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,redux,bootstrap,tailwind,jest,webpack,markdown,vscode,github,netlify,heroku)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,redux,ruby,rails,postgres,bootstrap,tailwind,jest,webpack,markdown,vscode,git,github,postman,netlify,heroku,vite)](https://skillicons.dev)
 
 <br>
 
